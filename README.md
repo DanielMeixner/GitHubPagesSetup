@@ -5,3 +5,5 @@ This project allows you to quickly create your GitHub pages. Here's what you do:
 2. Then open the repo in a Codespace.
 3. You're done. Everything will be done in the background for you. A few minutes later you can find your GitHub page in http://your-user-name.github.io
 
+For more info check [https://danielmeixner.github.io/setup-gh-pages-codespaces](https://danielmeixner.github.io/setup-gh-pages-codespaces)
+
