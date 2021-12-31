@@ -24,7 +24,7 @@ url=$( git remote -v |  head -n 1 |  awk '{print $2}' | awk -F "/" '{print $NF}'
 echo "url: \"https://$url\"" >> _config.yml
 
 git add .
-git commit -m "Inital Pages setup"
+git commit -m "Inital GitHub Pages setup via https://github.com/DanielMeixner/GitHubPagesSetup"
 git push
 
 
