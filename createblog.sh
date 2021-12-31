@@ -1,5 +1,5 @@
 # // follow the docs
-jekyll new --skip-bundle .
+jekyll new --skip-bundle . --force
 
 # // comment out line gem "jekyll" - this should be the first match
 sed -i 's/^gem\s"jekyll"/#gem "jekyll"/1' ./Gemfile
